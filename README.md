@@ -1,82 +1,89 @@
-Modellistica e Simulazione dei Processi di Produzione Discreti
+📘 Modellistica e Simulazione dei Processi di Produzione Discreti
 
-Dispensa universitaria | Università di Pisa | A.A. 2026/2027
+Università di Pisa | A.A. 2026/2027
 
-Dispensa di studio basata sulle slide del corso di Modellistica e Simulazione dei Processi di Produzione Discreti, tenuto dal Prof. Paolo Salaris presso l'Università di Pisa, nell'anno accademico 2026/2027.
+Dispensa universitaria basata interamente sulle slide del corso di Modellistica e Simulazione dei Processi di Produzione Discreti, tenuto dal Prof. Paolo Salaris presso l'Università di Pisa, nell'anno accademico 2026/2027.
 
-Il materiale è stato riorganizzato e approfondito per offrire uno strumento di studio organico, con spiegazioni teoriche, derivazioni matematiche, esempi e interpretazioni dei principali modelli.
+Il materiale è stato rielaborato e organizzato per offrire uno strumento di studio completo, con spiegazioni teoriche, derivazioni matematiche, esempi e interpretazioni dei principali modelli.
 
-La struttura e gli argomenti trattati derivano interamente dalle slide del docente. Eventuali integrazioni bibliografiche sono circoscritte agli stessi argomenti e documentate nella dispensa.
+La dispensa segue gli argomenti e l'impostazione delle lezioni del docente, con approfondimenti scientifici mirati e documentati.
 
-La dispensa è resa disponibile gratuitamente a tutti gli studenti, senza alcuna finalità commerciale.
+«🎓 Il materiale è disponibile gratuitamente per tutti gli studenti, senza alcuna finalità commerciale.»
 
-📘 Scarica la dispensa
+📥 Download
 
-"Visualizza e scarica il PDF completo" (./Dispensa%20di%20Studio.pdf)
+"📄 Scarica la dispensa completa (PDF)" (./Dispensa%20di%20Studio.pdf)
 
-- Formato: PDF
-- Lunghezza: 70 pagine
-- Lingua: Italiano
-- Capitoli: 9
-- Anno accademico: 2026/2027
+Informazione| Dettaglio
+📖 Materia| Modellistica e Simulazione dei Processi di Produzione Discreti
+🏛️ Università| Università di Pisa
+👨‍🏫 Docente| Prof. Paolo Salaris
+📅 Anno accademico| 2026/2027
+📑 Pagine| 70
+📚 Capitoli| 9
+🌍 Lingua| Italiano
+💰 Distribuzione| Gratuita
 
-📚 Contenuti della dispensa
+📚 Indice dei contenuti
 
 1. Sistemi e modelli
 
-Introduzione alla modellazione matematica dei sistemi dinamici, al concetto di stato e alla classificazione dei modelli. Applicazioni a sistemi fisici, produttivi e ad eventi discreti.
+Introduzione alla modellazione matematica, al concetto di stato e alla classificazione dei sistemi. Applicazioni a sistemi fisici, produttivi e ad eventi discreti.
 
 2. Linguaggi e automi
 
-Studio dei linguaggi formali e degli automi a stati finiti. Transizioni, riconoscimento di sequenze, minimizzazione e modellazione di sistemi con risorse condivise.
+Fondamenti dei linguaggi formali e degli automi a stati finiti. Transizioni, riconoscimento, minimizzazione e modellazione di sistemi con risorse condivise.
 
 3. Sistemi ad eventi discreti temporizzati
 
-Introduzione della variabile temporale nei sistemi ad eventi discreti. Gestione dei clock, programmazione degli eventi e simulazione del comportamento dinamico.
+Introduzione della dimensione temporale nei sistemi ad eventi discreti. Gestione dei clock, calendario degli eventi e simulazione di sistemi dinamici.
 
 4. Processi stocastici e memoria
 
-Fondamenti dei processi aleatori, distribuzioni di probabilità e stazionarietà. Proprietà di Markov, processi semi-Markov e ruolo della memoria nella definizione dello stato.
+Studio dei processi aleatori, delle distribuzioni di probabilità e della stazionarietà. Proprietà di Markov, processi semi-Markov e rappresentazione della memoria.
 
 5. GSMP e processi di Poisson
 
-Modellazione stocastica degli eventi mediante processi semi-Markov generalizzati (GSMP). Processi di Poisson, distribuzione esponenziale, proprietà di assenza di memoria e applicazioni alle code.
+Processi semi-Markov generalizzati (GSMP), processi di Poisson e distribuzione esponenziale. Proprietà di assenza di memoria e applicazioni ai sistemi di servizio.
 
 6. Catene di Markov a tempo discreto
 
-Definizione e rappresentazione delle catene di Markov discrete. Matrici di transizione, classificazione degli stati, distribuzioni invarianti e analisi del comportamento a lungo termine.
+Matrici di transizione, classificazione degli stati e analisi probabilistica. Distribuzioni stazionarie, ricorrenza, periodicità e comportamento asintotico.
 
 7. Catene di Markov a tempo continuo
 
-Studio delle catene markoviane continue attraverso matrici generatrici ed equazioni differenziali. Processi di nascita e morte, distribuzioni di equilibrio e uniformizzazione.
+Matrici generatrici, equazioni differenziali e analisi transitoria. Processi di nascita e morte, distribuzioni di equilibrio e uniformizzazione.
 
 8. Teoria delle code
 
-Analisi dei sistemi di attesa e delle principali misure prestazionali. Legge di Little, modelli M/M/1 e M/M/m, capacità finite, probabilità di perdita e dimensionamento delle risorse.
+Analisi delle prestazioni dei sistemi di attesa. Legge di Little, modelli M/M/1 e M/M/m, capacità finite, probabilità di perdita e dimensionamento delle risorse.
 
 9. Reti di code
 
-Modellazione di sistemi costituiti da più stazioni di servizio interconnesse. Reti aperte e chiuse, equazioni di traffico, teoremi di Burke e Jackson e reti di Gordon–Newell.
+Modellazione di reti aperte e chiuse. Equazioni di traffico, teoremi di Burke e Jackson, reti di Gordon–Newell e valutazione delle prestazioni.
 
 🎯 Obiettivo del progetto
 
-Questo repository nasce con l'obiettivo di condividere gratuitamente materiale di studio che possa aiutare gli studenti a:
+Questo repository nasce per rendere accessibile gratuitamente una risorsa di studio che possa aiutare gli studenti a:
 
-- Comprendere i concetti teorici affrontati durante le lezioni.
-- Approfondire i passaggi matematici e le derivazioni.
-- Collegare i diversi argomenti del corso.
-- Disporre di un riferimento organico per la preparazione dell'esame.
+- Comprendere gli argomenti affrontati durante il corso.
+- Approfondire le derivazioni e i passaggi matematici.
+- Collegare teoria, modelli ed esempi applicativi.
+- Preparare l'esame attraverso una trattazione organica.
+- Disporre di un riferimento consultabile anche successivamente.
 
-📌 Note e attribuzione
+📝 Note e attribuzioni
 
-Il materiale didattico originale su cui si basa questa dispensa è costituito dalle slide del Prof. Paolo Salaris — Università di Pisa.
+La fonte didattica principale è costituita dalle slide originali del Prof. Paolo Salaris — Università di Pisa, A.A. 2026/2027.
 
-La dispensa è una rielaborazione a scopo di studio e divulgazione didattica, non costituisce materiale ufficiale del corso e non sostituisce le lezioni o le indicazioni del docente.
+La dispensa rappresenta una rielaborazione indipendente a fini di studio e non costituisce materiale ufficiale del corso.
 
-Pur essendo stata effettuata una revisione dei contenuti, possono essere presenti errori, imprecisioni o interpretazioni non corrette. Per segnalazioni e proposte di correzione è possibile utilizzare la sezione Issues del repository.
+Pur essendo stata effettuata una revisione dei contenuti, potrebbero essere presenti errori o imprecisioni. Eventuali segnalazioni e proposte di correzione sono benvenute attraverso la sezione Issues del repository.
 
-La distribuzione è gratuita e senza scopo di lucro. Restano fermi i diritti dei rispettivi titolari sui materiali didattici originali.
+Il materiale è condiviso gratuitamente e senza fini di lucro, nel rispetto dei diritti dei rispettivi titolari sui contenuti originali.
 
 ---
 
-Realizzato per agevolare lo studio e la condivisione della conoscenza tra studenti.
+<p align="center">
+  📚 <i>La conoscenza cresce quando viene condivisa.</i>
+</p>
